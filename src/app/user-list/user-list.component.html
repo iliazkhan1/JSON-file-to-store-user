@@ -1,0 +1,12 @@
+<h2>User Information</h2>
+<ul>
+  @for (user of users; track user) {
+    <li>
+      <strong>ID:</strong> {{ user.userid }} <br />
+      <strong>Username:</strong> {{ user.username }} <br />
+      <strong>Password:</strong> {{ user.password }} <br />
+      <strong>Job Description:</strong> {{ user.job_description }}
+      <hr />
+    </li>
+  }
+</ul>

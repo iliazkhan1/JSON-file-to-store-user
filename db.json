@@ -1,0 +1,16 @@
+{
+    "users": [
+      {
+        "userid": 1,
+        "username": "iliaz",
+        "password": "12345678",
+        "job_description": "Software Engineer"
+      },
+      {
+        "userid": 2,
+        "username": "jhon",
+        "password": "akdchwhc",
+        "job_description": "Project Manager"
+      }
+    ]
+  }
